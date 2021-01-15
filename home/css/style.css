@@ -1,0 +1,58 @@
+        .rrrrrr {
+            padding-top: 10px;
+
+        }
+
+        .CARD {
+            display: inline-block;
+            width: 19%;
+            height: 250px;
+            /* background-color:blue;  */
+            margin: 5px;
+        }
+
+        .percent {
+            font-size: 20px;
+            position: absolute;
+            margin-top: 199px;
+            width: 19%;
+
+        }
+
+        .img_container {
+            display: none;
+            border: solid 2px;
+            margin-top: 50px;
+            width: 100%;
+
+            min-height: 100%;
+        }
+
+        .image {
+            width: 100%;
+            height: 200px;
+
+        }
+
+        #loaderDiv {
+
+            background-color: #d1ecf1;
+            height: 45px;
+            width: 100%;
+            z-index: 999;
+            display: none;
+
+
+        }
+
+        .progress {
+            margin-top: 2px;
+
+            width: 40%;
+        }
+
+        #uploader {
+            margin-top: -15px;
+
+
+        }
