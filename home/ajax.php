@@ -1,6 +1,5 @@
 <?php 
-// usleep(500000) ; For Testing on localhost
-
+ usleep(500000) ;// For Testing on localhost
 
 $target_dir = "../upload/";
 $target_file = $target_dir . basename($_FILES["upload_image"]["name"]);
